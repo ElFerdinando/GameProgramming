@@ -67,3 +67,6 @@
 
 # Cache files for the editor to use
 **/DerivedDataCache/*
+
+# who even needs EnvironmentSets?
+**/Environment_Set/*
