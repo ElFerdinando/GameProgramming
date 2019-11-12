@@ -71,4 +71,5 @@
 # who even needs EnvironmentSets?
 **/Environment_Set/*
 
+# out with the open world demo collection
 **/KiteDemo/*
